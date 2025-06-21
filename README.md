@@ -1,6 +1,3 @@
-### 📘 README.md
-
-````markdown
 # 🛒 Mini E-Commerce Platform
 
 A microservices-based e-commerce backend built with Node.js. It includes services for user authentication, product management, and order processing with an API gateway.
@@ -30,4 +27,3 @@ git clone https://github.com/RoopakSai15/miniE
 cd miniE
 docker-compose up --build
 ```
-````
